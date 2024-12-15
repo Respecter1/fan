@@ -1,0 +1,3 @@
+*.dSIM
+*.idea/
+cmake-build-debug/
