@@ -3,4 +3,4 @@ project(test_git)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(test_git main.cpp)
+add_executable(test_git resurses/main.cpp)
