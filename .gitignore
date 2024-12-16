@@ -3,9 +3,8 @@
 *.idea/
 cmake-build-debug/
 
-# Виняток: не ігнорувати папку resurses/
-!resurses/
-!resurses/**
+
+
 
 # Ігнорування інших тимчасових файлів
 *.log
